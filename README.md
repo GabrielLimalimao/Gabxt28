@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Gabriel
+ # 👋 Olá, eu sou o Gabriel
 
- Sou um Programador iniciante apaixonado por tecnologia, buscando evoluir. Atualmente, estou me aprofundando cada vez mais no universo do desenvolvimento, ampliando minhas habilidades e explorando novas ferramentas.
+ Sou um programador iniciante apaixonado por tecnologia, buscando evoluir. Atualmente, estou me aprofundando cada vez mais no universo do desenvolvimento, ampliando minhas habilidades e explorando novas ferramentas.
 
 
 ---
@@ -12,7 +12,7 @@
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -20,7 +20,7 @@
     align="left" 
     alt="SASS" 
     title="SASS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
@@ -28,7 +28,7 @@
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -36,7 +36,7 @@
     align="left" 
     alt="Laravel" 
     title="Laravel"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" 
 />
@@ -44,7 +44,7 @@
     align="left" 
     alt="JQuery" 
     title="JQuery"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
@@ -52,7 +52,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -64,3 +64,18 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+
+<img 
+    align="left" 
+    alt="Github Status" 
+    width="200px" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Gabxt28=true&theme=radical&include_all_commits=true&locale=pt-br" 
+/>
+ 
