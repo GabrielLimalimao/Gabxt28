@@ -1,6 +1,6 @@
  # 👋 Olá, eu sou o Gabriel
 
- Sou um programador iniciante apaixonado por tecnologia, buscando evoluir. Atualmente, estou me aprofundando cada vez mais no universo do desenvolvimento, ampliando minhas habilidades e explorando novas ferramentas.
+ Sou um desenvolvedor iniciante apaixonado por tecnologia, buscando evoluir. Atualmente, estou me aprofundando cada vez mais no universo do desenvolvimento, ampliando minhas habilidades e explorando novas ferramentas.
 
 
 ---
