@@ -1,50 +1,66 @@
 # 👋 Olá, eu sou o Gabriel
 
-Sou um desenvolvedor iniciante apaixonado por tecnologia,  buscando evoluir.  Atualmente, estou me aprofundando cada vez mais no universo do desenvolvimento, ampliando minhas habilidades e explorando novas ferramentas.
+ Sou um desenvolvedor iniciante apaixonado por tecnologia, buscando evoluir. Atualmente, estou me aprofundando cada vez mais no universo do desenvolvimento, ampliando minhas habilidades e explorando novas ferramentas.
 
 
 ---
 
-## 🖥️ Back-end
-- 🔷 **C#**
-- 🔷 **ASP.NET**
-- 🔌 **APIs REST**
+### 🤖 Linguagens e Tecnologias
 
----
-
-## 🎨 Front-end
-- ⚛️ **React**
-- 🎨 **Bootstrap**
-
----
-
-## 🛠️ Dev & QA
-- 🐳 **Docker**
-- 🧪 **Testes Unitários**
-
----
-
-## 🗄️ Bancos de Dados
-- 🐬 **MySQL**
-- 🐬 **sql server**
-
----
  
-
----
-
-## 📚 Aprendizado Contínuo
-Atualmente estudando:
-- ☕ Java  
-- 🌱 Spring Framework  
-- 🧱 Boas práticas de arquitetura back-end  
-
----
-
-## 📫 Contato
-- ✉️ Email: **gabriel.lima.tinfem.2022@gmail.com**
-- 🐙 GitHub: **Gabxt28**
-
----
-
-Obrigado por visitar!
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
