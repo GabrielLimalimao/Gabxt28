@@ -10,40 +10,40 @@
  
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Postman" 
+    title="Postman"
     width="70px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Flutter" 
+    title="Flutter"
     width="70px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Mysql" 
+    title="Mysql"
     width="70px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Datagrip" 
+    title="Datagrip"
     width="70px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" 
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="csharp" 
+    title="csharp"
     width="70px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
@@ -58,8 +58,8 @@
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="docker" 
+    title="docker"
     width="70px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
