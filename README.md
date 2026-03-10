@@ -7,13 +7,6 @@
 
 ### 🤖 Linguagens e Tecnologias
 
- <img 
-    align="left" 
-    alt="entityframeworkcore" 
-    title="entityframeworkcore"
-    width="70px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" /> 
           
 <img 
     align="left" 
@@ -47,6 +40,13 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" 
 />
+ <img 
+    align="left" 
+    alt="entityframeworkcore" 
+    title="entityframeworkcore"
+    width="70px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" /> 
 <img 
     align="left" 
     alt="csharp" 
