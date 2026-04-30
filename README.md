@@ -19,7 +19,7 @@
  title="java"
  width="70px" 
  style="padding-right: 10px;"
- src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservice/amazonwebservice-original.svg' />
+ src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg' />
           
 
 <br/>
